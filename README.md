@@ -54,10 +54,11 @@ README.md
 
 ---
 
-## 📈 Dashboard
+## 📊 Dashboard Preview
 ![Dashboard](images/dashboard.png)
 
 👉 *Interactive dashboard built using Tableau*
+- This dashboard visualizes key factors affecting student depression including academic pressure, sleep duration, and financial stress.
 
 ---
 
